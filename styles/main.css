@@ -1,0 +1,63 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #8dcd91;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+}
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Header style */
+h1 {
+    display: inline-block;
+    border-style: solid;
+    padding-top: 10px;
+}
+
+.page-header {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.leaf {
+    position: relative;
+    top: 25px;
+    font-size: 30px;
+    margin-top: -25px;
+}
+
+.fa-leaf {
+    color: #8dcd91;
+    background-color: #e9ecef;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* Product List style */
+.card-body {
+    line-height: 1.2em;
+}
+
+.card-title {
+    overflow: hidden;
+    text-overflow:ellipsis;
+    height: 3.6em;
+}
+
+.card-subtitle {
+    display: block;
+    height: 2.4em;
+}
+
+.price {
+    display: block;
+    color: #b33451;
+    height: 1.2em;
+}
+
